@@ -1,0 +1,16 @@
+.BanVideoBloc {
+  background-color:black;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+.banVid {
+  width: 1250px;
+
+}
+.blackbloc{
+
+}

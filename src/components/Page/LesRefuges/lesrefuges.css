@@ -1,0 +1,245 @@
+/*---------------------Desktop------------------*/
+
+.photoRoute{
+  display: flex;
+}
+.museau{
+  position:absolute;
+  width:300px;
+  margin: 500px;
+  margin-top:-150px;
+
+}
+.titlePageRefuge{
+  margin-top:10px;
+}
+.districtPage{
+	border:solid  2px white;
+	border-radius: 5px;
+  color: white;
+  margin:auto;
+  width: 800px;
+  height:350px;
+  padding:60px;
+  margin-bottom:60px;
+  background-image: url('../../../assets/images/dog-1543329_1280.jpg');
+  background-size: cover;
+  background-color: black;
+  margin-top:250px;
+  position: relative;
+}
+.districtBloc{
+  display:flex;
+  justify-content: center;
+}
+
+
+.searchDistrict{
+	border:solid  1px white;
+	border-radius: 5px;
+  color: white;
+  width: 270px;
+  height: 150px;
+  padding:20px;
+  margin:40px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  
+}
+
+.titlePage{
+	font-size: 30px;
+	color: white;
+  text-align: center;
+  padding:20px;
+
+}
+
+.dropdown {
+	text-align: center;
+	margin-top: 25px;
+	
+}
+.flexCarte{
+  display: flex;
+  justify-content: center;
+}
+.ResultsRefuge{
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+  margin: auto;
+}
+.cardShelters{
+  border: 2px white solid;
+  border-radius: 10px;
+  margin: 10px;
+  margin-bottom: 40px;
+  background-color:white;
+  position: relative;
+  height: 500px;
+  width: 290px;
+}
+.cardShelters:hover{
+  margin:0.8rem;
+  box-shadow: grey 1px 1px 2;
+}
+.imageShelter{
+  width: 100%;
+  border-radius: 10px;
+  height: 200px;
+  object-fit: cover;
+}
+.title{
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: black;
+  padding: 10px;
+}
+.text{
+  color: black;
+  padding: 10px;
+}
+.textCarte{
+  overflow:auto ;
+  white-space: pre-wrap;
+  max-height: 100px;
+  color: black;
+  padding: 10px;
+}
+.lieu{
+  color: black;
+  padding: 10px;
+}
+.zipcode{
+  color: black;
+
+}
+.city{
+  color: black;
+
+}
+.buttonLesRefuges{
+  margin: 10px;
+  background-color: #87af8b;
+  border:1px solid #87af8b;
+  position: absolute;
+  bottom: 0;
+}
+.buttonLesRefuges:hover{
+  background-color: chocolate;
+  border:1px solid chocolate;
+}
+.button{
+  margin: 10px;
+  background-color: #87af8b;
+  border:1px solid #87af8b;
+}
+.button:hover{
+  background-color: chocolate;
+  border:1px solid chocolate;
+}
+
+/*--------------------Tablet Landscape------------------------*/
+
+/*--------------------Tablet------------------------*/
+.museauTablet{
+  position:absolute;
+  width:300px;
+  margin: 310px;
+  margin-top:-150px;
+
+}
+.districtPageTablet{
+  border:solid  2px white;
+	border-radius: 5px;
+  color: white;
+  margin:auto;
+  width: 600px;
+  height:400px;
+  padding:60px;
+  margin-bottom:60px;
+  background-image: url('../../../assets/images/dog-1543329_1280.jpg');
+  background-size: cover;
+  background-color: black;
+  margin-top:250px;
+  position: relative;
+}
+.titlePageRefugeTablet{
+  margin-top:10px;
+}
+.districtBlocTablet{
+  display:flex;
+  justify-content: center;
+}
+.searchDistrictTablet{
+  border:solid  1px white;
+	border-radius: 5px;
+  color: white;
+  width: 270px;
+  height: 200px;
+  padding:20px;
+  margin:40px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  
+  
+}
+.dropdownTablet{
+  text-align: center;
+	margin-top: 25px;
+}
+
+
+/*--------------------Mobile Landscape------------------------*/
+
+/*--------------------Mobile------------------------*/
+.museauMobile{
+  position:absolute;
+  width:150px;
+  margin: 100px;
+  margin-top:-75px;
+
+}
+.districtPageMobile{
+  border:solid  2px white;
+	border-radius: 5px;
+  color: white;
+  margin:auto;
+  width: 300px;
+  height:600px;
+  padding:60px;
+  margin-bottom:60px;
+  background-image: url('../../../assets/images/dog-1543329_1280.jpg');
+  background-size: cover;
+  background-color: black;
+  margin-top:100px;
+  position: relative;
+}
+.titlePageRefugeMobile{
+  margin-top:10px;
+}
+.districtBlocMobile{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.searchDistrictMobile{
+  border:solid  1px white;
+	border-radius: 5px;
+  color: white;
+  width: 270px;
+  height: 200px;
+  padding:20px;
+  margin:40px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  
+  
+}
+.dropdownMobile{
+  text-align: center;
+	margin-top: 25px;
+}

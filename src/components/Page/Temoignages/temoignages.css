@@ -1,0 +1,46 @@
+
+.titlePage{
+	font-size: 30px;
+  text-align: center;
+
+}
+
+.blocCardTem{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 40px;
+}
+
+.cardTem{
+  border: solid 2px #74c47c;
+  border-radius: 10px;
+  width: 350px;
+  height:500px;
+  padding-top: 20px;
+  position: relative;
+
+}
+.titleTem{
+  font-size: 30px;
+}
+.txtTem{
+  padding-bottom: 15px;
+  margin-top: -15px;
+  padding-left: 30px;
+  padding-right: 10px;
+  font-size: 1.1rem;
+}
+
+.imgBlocTem{
+
+  
+}
+.imgTem{
+  width: 100%;
+  border-radius: 10px;
+  padding-left: 6px;
+  padding-right:6px;
+  position: absolute;
+  bottom: 0;
+  margin-bottom:6px;
+}

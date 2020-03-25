@@ -1,0 +1,175 @@
+
+.connexionBloc{
+  margin-top: 20px;
+  display:flex;
+  justify-content: space-between;
+  max-width:100%;
+  
+}
+.connexionButton{
+  order:2;
+}
+.logologin{
+  width: 20px;
+  margin-left: 10px;
+  margin-bottom: 3px;
+}
+
+.ButtonContact{
+  border:none;
+  width:50px;
+  height: 50px;
+  background:none;
+  margin-top: -1.2rem;
+  font-size: 2rem;
+}
+.ButtonContact:hover{
+   background: none;
+   color: white;
+   text-decoration: none;
+   font-size: 2.2em;
+   transition: color .10s;
+}
+
+.ButtonContact:hover,
+.ButtonContact:focus {
+	color: #74c47c;
+  cursor: pointer;
+}
+.navigation-itemDec{
+  margin-right: 0.8rem;
+  margin-left:0.8rem;
+  border:1px solid white;
+  padding:0.23rem 0.6rem;
+  border-radius:0.5rem;
+  margin-top: -0.3rem;
+  color:white;
+  font-size:1.2rem;
+  font-weight:bold;
+  background: none;
+}
+.navigation-itemDec:hover{
+  border-color:white;
+  color:#000000c0;
+  background-color:white;
+}
+
+.connexionBlocTablet{
+  margin-top: 20px;
+  display:flex;
+  justify-content: space-between;
+  max-width:100%;
+  
+}
+.connexionButtonTablet{
+  order:2;
+}
+.logologinTablet{
+  width: 20px;
+  margin-left: 8px;
+  margin-bottom: 2px;
+}
+
+.ButtonContactTablet{
+  border:none;
+  width:50px;
+  height: 50px;
+  background:none;
+  margin-top: -1.5rem;
+  font-size: 2rem;
+}
+.ButtonContactTablet:hover{
+   background: none;
+   color: white;
+   text-decoration: none;
+   font-size: 3em;
+   transition: color .4s;
+}
+
+.ButtonContactTablet:hover,
+.ButtonContactTablet:focus {
+	color: #74c47c;
+  cursor: pointer;
+}
+.navigation-itemTablet{
+  margin-right: 0.8rem;
+  margin-left:0.8rem;
+  border:1px solid white;
+  padding:0.3rem 0.6rem;
+  border-radius:0.5rem;
+  color:white;
+  font-size:0.8rem;
+  font-weight:bold;
+}
+.navigation-itemDecTablet{
+  margin-right: 0.8rem;
+  margin-left:0.8rem;
+  border:1px solid white;
+  padding:0.23rem 0.6rem;
+  border-radius:0.5rem;
+  color:white;
+  font-size:0.8rem;
+  font-weight:bold;
+  background: none;
+  margin-top: -0.1rem;
+}
+.connexionBlocMobile{
+  margin-top: 20px;
+  display:flex;
+  justify-content: space-between;
+  width:100%;
+  
+}
+.connexionButtonMobile{
+  order:2;
+}
+.logologinMobile{
+  width: 20px;
+  margin-left: 8px;
+  margin-bottom: 2px;
+}
+
+.ButtonContactMobile{
+  border:none;
+  width:50px;
+  height: 50px;
+  background:none;
+  margin-top: -1rem;
+  font-size: 1.5rem;
+}
+.ButtonContactMobile:hover{
+   background: none;
+   color: white;
+   text-decoration: none;
+   font-size: 2em;
+   transition: color .4s;
+}
+
+.ButtonContactMobile:hover,
+.ButtonContactMobile:focus {
+	color: #74c47c;
+  cursor: pointer;
+}
+.navigation-itemMobile{
+  margin-right: 0.5rem;
+  margin-left:0.5rem;
+  border:1px solid white;
+  padding:0.3rem 0.6rem;
+  border-radius:0.5rem;
+  color:white;
+  font-size:0.5rem;
+  font-weight:bold;
+  text-align: center;
+}
+.navigation-itemDecMobile{
+  margin-right: 0.5rem;
+  margin-left:0.5rem;
+  border:1px solid white;
+  padding:0.23rem 0.6rem;
+  border-radius:0.5rem;
+  color:white;
+  font-size:0.5rem;
+  font-weight:bold;
+  background: none;
+  margin-top: 0.1rem;
+}

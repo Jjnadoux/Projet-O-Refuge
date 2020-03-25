@@ -1,0 +1,214 @@
+.images{
+  display:flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin:auto;
+  max-height: 250px;
+  background-color:black;
+}
+.imagesban{
+  display:flex;
+  align-items: flex-start;
+  justify-content: center;
+  max-height: 250px;
+
+}
+.banniere{
+
+}
+
+.navigation {
+    display: flex;
+    margin-top:2rem;
+    justify-content: center;
+    align-items: flex-start;
+    position:absolute;
+}
+
+.navigation-item{
+    margin-right: 0.8rem;
+    margin-left:0.8rem;
+    border:1px solid white;
+    padding:0.3rem 0.6rem;
+    border-radius:0.5rem;
+    color:white;
+    font-size:1.2rem;
+    font-weight:bold;
+}
+.navigation-item:hover{
+  
+    border-color:white;
+    color:#000000c0;
+    background-color:white;
+}
+
+.logo{
+    width:7rem;
+    margin:auto;
+}
+.imagestablet{
+  display:flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin:auto;
+  max-height: 250px;
+  background-color:black;
+}
+.imagesbantablet{
+  display:flex;
+  align-items: flex-start;
+  justify-content: center;
+
+}
+.bannieretablet{
+
+}
+
+.navigationtablet {
+    display: flex;
+    margin-top:2rem;
+    justify-content: center;
+    align-items: flex-start;
+    position:absolute;
+}
+
+.navigation-itemtablet{
+    margin-right: 0.7rem;
+    margin-left:0.7rem;
+    border:1px solid white;
+    padding:0.3rem 0.6rem;
+    border-radius:0.5rem;
+    color:white;
+    font-size:1.2rem;
+    font-weight:bold;
+}
+.navigation-itemtablet:hover{
+  
+    border-color:white;
+    color:#000000c0;
+    background-color:white;
+}
+
+.logotablet{
+    width:7rem;
+    margin:auto;
+}
+
+.Navprincipauxtablet{
+    display: flex;
+    justify-content: center;
+    position:absolute;
+    margin-top: 12rem;
+}
+
+.imagesbanMobilePortrait{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+.banniereMobilePortrait{
+ position: absolute;
+}
+
+.navigationGaucheMobilePortrait {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  position: relative;
+}
+.centreMobilePortrait{
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.navigationDroiteMobilePortrait{
+
+  display: flex;
+  flex-flow: column-reverse;
+  justify-content: space-around;
+  position: relative;
+}
+.navigation-itemMobilePortrait{
+  margin-top: 0.5rem;
+  margin-right: 0.2rem;
+  margin-left:0.2rem;
+  border:1px solid white;
+  padding:0.2rem 0.5rem;
+  border-radius:0.5rem;
+  color:white;
+  text-align: center;
+  font-size:0.5rem;
+  font-weight:bold;
+  height: max-content;
+  width: 6rem;
+}
+.navigation-itemMobilePortrait:hover{
+  
+    border-color:white;
+    color:#000000c0;
+    background-color:white;
+}
+
+.logoMobilePortrait{
+    width:2rem;
+    margin:auto;
+}
+
+.imagesMobileLand{
+  display:flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin:auto;
+  max-height: 250px;
+  background-color:black;
+}
+.imagesbanMobileLand{
+  display:flex;
+  align-items: flex-start;
+  justify-content: center;
+
+}
+.banniereMobileLand{
+
+}
+
+.navigationMobileLand {
+    display: flex;
+    margin-top:2rem;
+    justify-content: center;
+    align-items: flex-start;
+    position:absolute;
+}
+
+.navigation-itemMobileLand{
+    margin-right: 0.7rem;
+    margin-left:0.7rem;
+    border:1px solid white;
+    padding:0.3rem 0.6rem;
+    border-radius:0.5rem;
+    color:white;
+    font-size:1rem;
+    font-weight:bold;
+}
+.navigation-itemMobileLand:hover{
+  
+    border-color:white;
+    color:#000000c0;
+    background-color:white;
+}
+
+.logoMobileLand{
+    width:5rem;
+    margin:auto;
+}
+
+.NavprincipauxMobileLand{
+    display: flex;
+    justify-content: center;
+    position:absolute;
+    margin-top: 12rem;
+}

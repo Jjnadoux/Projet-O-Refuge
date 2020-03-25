@@ -1,0 +1,226 @@
+.CoHome{
+  margin: 1.2rem;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.home{
+
+}
+.images{
+    display:flex;
+    justify-content: center;
+    position:fixed;
+
+ }
+ .video{
+
+
+ }
+ .navigation {
+     display: flex;
+     margin-top:2rem;
+     justify-content: center;
+     align-items: flex-start;
+     position: absolute;
+ }
+ 
+ .navigation-item{
+     margin-right: 0.8rem;
+     margin-left:0.8rem;
+     border:1px solid white;
+     padding:0.3rem 0.6rem;
+     border-radius:0.5rem;
+     color:white;
+     font-size:1.4rem;
+     font-weight:bold;
+ }
+ .navigation-item:hover{
+   
+     border-color:white;
+     color:#000000c0;
+     background-color:white;
+ }
+ 
+ .logo{
+     width:5rem;
+     margin-left:0.5rem;
+     margin-right:0.5rem;
+ }
+
+ .fa-envelope{
+     color:white;
+ }
+ 
+
+ 
+ .responsiveHome{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  position: fixed;
+  background-color: black;
+  overflow: hidden;
+  
+ }
+ .RespNav{
+  position: absolute;
+
+
+ }
+ .RespNav-item{
+  border:1px solid white;
+  padding:0.3rem 0.6rem;
+  border-radius:0.5rem;
+  color:white;
+  font-size:1.4rem;
+  font-weight:bold;
+ }
+ .RespNav-item:hover{
+   
+  border-color:white;
+  color:#000000c0;
+  background-color:white;
+}
+ .RespNav-item2{
+
+  border:1px solid white;
+  padding:0.3rem 0.6rem;
+  border-radius:0.5rem;
+  color:white;
+  font-size:1.5rem;
+  font-weight:bold;
+ }
+ .RespNav-item2:hover{
+   
+  border-color:white;
+  color:#000000c0;
+  background-color:white;
+}
+ .RespNav-logo{
+  width: 5rem;
+  height: 5.5rem;
+  margin-top: 1.8rem;
+ }
+ .RespNav-contact{
+ }
+ .ResNav-1{
+  display: flex;
+  justify-content: center;
+  margin-top: 1.8rem;
+ }
+ .ResNav-8{
+   margin-top: 1.8rem;
+   display: flex;
+   justify-content: space-around;
+
+ }
+.ResNav-logo1{
+  display: flex;
+  justify-content: center;
+}
+
+.titleAccueil{
+  color:white;
+  font-size:1.5rem;
+
+  
+}
+.textAccueil{
+  color:white;
+  font-size:1.2rem;
+}
+.RespNavTablet{
+  position: absolute;
+
+
+ }
+ .RespNav-itemTablet{
+  border:2px solid white;
+  padding:0.3rem 0.6rem;
+  border-radius:0.5rem;
+  color:white;
+  font-size:1.8rem;
+  font-weight:bold;
+ }
+ .RespNav-itemTablet:hover{
+   
+  border-color:white;
+  color:#000000c0;
+  background-color:white;
+}
+ .RespNav-item2Tablet{
+
+  border:3px solid white;
+  padding:0.3rem 0.6rem;
+  border-radius:0.5rem;
+  color:white;
+  font-size:2.5rem;
+  font-weight:bold;
+  margin: 3rem;
+ }
+ .RespNav-item2Tablet:hover{
+   
+  border-color:white;
+  color:#000000c0;
+  background-color:white;
+}
+ .RespNav-logoTablet{
+  width: 10rem;
+  height: 11rem;
+  margin-top: 2rem;
+ }
+ .RespNav-contactTablet{
+ }
+ .ResNav-1Tablet{
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+ }
+ .ResNav-8Tablet{
+   margin-top: 3rem;
+
+
+
+ }
+.ResNav-logo1Tablet{
+  display: flex;
+  justify-content: center;
+}
+
+.titleAccueilTablet{
+  text-align: center;
+  color:white;
+  font-size:3rem;
+
+  
+}
+.textAccueilTablet{
+  text-align: center;
+  color:white;
+  font-size:1.8rem;
+}
+
+.navigationMobile{
+  display: flex;
+  margin-top:2rem;
+  justify-content: center;
+  align-items: flex-start;
+  position: absolute;
+  font-size: 0.8rem;
+}
+.navigation-itemMobileLand{
+  margin-right: 0.8rem;
+  margin-left:0.8rem;
+  border:1px solid white;
+  padding:0.3rem 0.6rem;
+  border-radius:0.5rem;
+  color:white;
+  font-size:0.8rem;
+  font-weight:bold;
+}
+.logoMobileLand{
+  width:4rem;
+  margin-left:0.5rem;
+  margin-right:0.5rem;
+}

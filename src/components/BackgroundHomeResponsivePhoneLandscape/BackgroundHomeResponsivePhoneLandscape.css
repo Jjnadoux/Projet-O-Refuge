@@ -1,0 +1,82 @@
+.responsivehome{
+  position: relative;
+  min-height: 300px;
+  background-color: black;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.responsivevideo{
+
+  width: 100%;
+}
+.Container {
+  position: relative;
+  min-height: 300px;
+  background-color: black;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+.Video {
+  width: 100%;
+  margin: auto;
+
+}
+
+/* Add some content at the bottom of the video/page */
+.acces {
+  position: absolute;
+  top: 0;
+  color:#f1f1f1;
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+.SubAcces {
+    text-align: center;
+    padding: 10px;
+  }
+.SubAcces h1{
+  margin-top: -4rem;
+  font-size:1.5rem;
+}
+.SubAcces p {
+    margin-top: -2rem;
+    color: #eeeeeead;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.SubAcces button {
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-right:2rem;
+    margin-left:2rem;
+    color: #f1f1f1;
+    border: #f1f1f1 1px solid;
+    padding: 10px 10px;
+    background-color: hsla(0, 0%, 0%, 0);
+    font-size: 1.3rem;
+    border-radius: 5px;
+}
+.SubAcces button:hover {
+    background-color: #f1f1f1;
+    color: #000000c0;
+}
+
+.SubAcces img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: block;
+  margin: 15px auto;
+  border: #f1f1f1 1px solid;
+}

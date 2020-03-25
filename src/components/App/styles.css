@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+body{
+  background-color: black;
+  background-size: auto;
+
+}
+
+.app{
+  font-family: 'Quicksand';
+  
+}
+
+.titlePage{
+  font-size:30px;
+}
+

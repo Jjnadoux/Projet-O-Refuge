@@ -1,0 +1,69 @@
+.formConnexion{
+  border:solid  1px white;
+	border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin:auto;
+  margin-bottom: 200px;
+  width: 800px;
+  padding:50px;
+  margin-bottom:60px;
+  background-image: url('../../../assets/images/paw-548634_1280.jpg');
+  background-size: cover;
+  background-color: black;
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+.inscriptionLink{
+  border:solid  1px white;
+	border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin:auto;
+  margin-bottom: 200px;
+  width: 800px;
+  padding:50px;
+  margin-bottom:60px;
+  background-image: url('../../../assets/images/sand-3141077_1280.jpg');
+  background-size: cover;
+  background-color: black;
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+.champs{
+  width:100px;
+}
+.Logged{
+text-align:center;
+height: 500px;
+}
+
+.conexpara{
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+
+.blocNavCo{
+  display: flex;
+  justify-content: space-between;
+}
+.messageError{
+  color:red;
+}
+.countLink{
+  margin-left:2rem;
+}
+.countLink:hover{
+ color:#74c47c;
+}
+
+.MDPoublie:hover{
+  color:#74c47c;
+}
+
+.blocMDPoublie{
+  margin-bottom: 10px;
+}
+.MDPoublie{
+  
+  font-style: italic;
+}

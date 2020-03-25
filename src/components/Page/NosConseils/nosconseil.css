@@ -1,0 +1,169 @@
+.bloc1-2{
+  display:flex;
+  justify-content: space-around;
+
+}
+.bloc1{
+  border:solid  1px white;
+	border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin:auto;
+  width: 500px;
+  height: 600px;
+  padding:45px;
+  margin-bottom:60px;
+  background-image: url('../../../assets/images/cat-2356021_1920.jpg');
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-color: black;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  display:flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+.bloc2{
+  border:solid  1px white;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin:auto;
+  width: 500px;
+  height: 600px;
+  padding:60px;
+  margin-bottom:60px;
+  background-image: url('../../../assets/images/stethoscope-3725131_640.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  display:flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+.checkedList{
+  display:flex;
+}
+.bloc3{
+  margin-bottom: 50px;
+}
+.bloc4{
+  color: white;
+  font-weight: bold;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.pictLink{
+  border:solid  2px white;
+  border-radius: 10px;
+  width: 400px;
+  height: 300px;
+  margin: 20px;
+}
+.imgButton{
+  background: none;
+  border: none;
+  border-radius: 10px;
+}
+.textConseil{
+  font-size: 20px;
+}
+.titleConseil{
+  font-size: 30px;
+}
+
+.pictLinkTablet{
+  border:solid  2px white;
+  border-radius: 10px;
+  width: 300px;
+  height: 225px;
+  margin: 10px;
+}
+
+.bloc1-2Mobile{
+
+
+}
+.bloc1Mobile{
+  border:solid  1px white;
+	border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin:auto;
+  width: 300px;
+  height: 550px;
+  padding:30px;
+  margin-bottom:60px;
+  background-image: url('../../../assets/images/cat-2356021_1920.jpg');
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-color: black;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  display:flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  text-align: justify;
+}
+.bloc2Mobile{
+  border:solid  1px white;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin:auto;
+  width: 300px;
+  height: 500px;
+  padding:30px;
+  margin-bottom:60px;
+  background-image: url('../../../assets/images/stethoscope-3725131_640.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  display:flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  text-align: justify;
+}
+.checkedListMobile{
+  display:flex;
+}
+.bloc3Mobile{
+  margin-bottom: 50px;
+}
+.bloc4Mobile{
+  color: white;
+  font-weight: bold;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.pictLinkMobile{
+  border:solid  2px white;
+  border-radius: 10px;
+  width: 400px;
+  height: 300px;
+  margin: 20px;
+}
+.imgButtonMobile{
+  background: none;
+  border: none;
+  border-radius: 10px;
+}
+.textConseilMobile{
+  font-size: 15px;
+}
+.titleConseilMobile{
+  font-size: 20px;
+}
+
+.pictLinkMobile{
+  border:solid  2px white;
+  border-radius: 10px;
+  width: 300px;
+  height: 225px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}

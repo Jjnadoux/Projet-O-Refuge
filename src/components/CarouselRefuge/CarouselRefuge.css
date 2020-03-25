@@ -1,0 +1,13 @@
+.dernierRefuge{
+    width: 600px;
+    margin:auto;
+    text-align: center;
+    color: white;
+    margin-bottom:60px;
+}
+.titleRefuge h1{
+    font-size: 30px;
+	color: white;
+    text-align: center;
+    padding:50px;
+}

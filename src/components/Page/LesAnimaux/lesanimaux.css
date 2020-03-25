@@ -1,0 +1,364 @@
+/*
+.fond {
+  color: white;
+}
+
+.title{
+    color:black;
+    font-weight: bold;
+    margin-top:0.3px;
+    
+}
+
+.text{
+    color:black;
+    margin-bottom: 1rem;
+}
+.colonneGaucheChat{
+  margin-top: 20px;
+  margin-left: 30px;
+  position: fixed;
+}
+
+.colonneDroite{
+
+}
+
+.flexdroite{
+  display: flex;
+  justify-content: flex-end;
+}
+.colonneDroiteLesAnimaux{
+  max-width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  flex-flow: wrap;
+  max-width: 800px;
+  margin-right: 10px;
+}
+
+.imageAnimal{
+  width: 100%;
+  border-radius: 10px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.cardAnimals{
+  border: 2px white solid;
+  border-radius: 10px;
+  margin: 20px;
+  background-color:white;
+  position: relative;
+  height: 500px;
+  width: 320px;
+    
+}
+.cardAnimals:hover{
+  margin:0.8rem;
+  box-shadow: grey 1px 1px 2;
+}
+
+.button{
+    background-color: #87af8b;
+    border:1px solid #87af8b;
+
+}
+.button:hover{
+    background-color: chocolate;
+    border:1px solid chocolate;
+}
+.logoGender{
+    color:black;
+}
+.divTitle {
+    display:flex;
+    justify-content: space-between;
+}
+
+.formFilter{
+    border: 2px white solid;
+    padding:1rem;
+    border-radius: 5px;
+    position:relative;
+    margin-top: 70px;
+}
+.formFilter p{
+    margin-top: 20px;
+}
+.imageDeco{
+    position: absolute;
+    top:-100px;
+    z-index: +50;
+}
+.chaton{
+    width: 200px;
+}
+*/
+.titlePage{
+
+}
+
+.colonneGaucheChatLesAnimaux{
+  margin-top: 50px;
+  margin-left: 20px;
+  position: fixed;
+
+}
+.imageDecoLesAnimaux{
+  position: absolute;
+  top:-100px;
+  z-index: +50;
+}
+
+.chatonLesAnimaux{
+  width: 200px;
+}
+.formFilterLesAnimaux{
+  border: 2px white solid;
+  padding:1rem;
+  border-radius: 5px;
+  position:relative;
+  margin-top: 70px;
+  width: 250px;
+}
+.formFilterLesAnimaux p{
+  margin-top: 20px;
+}
+.flexdroiteLesAnimaux{
+  display: flex;
+  justify-content: flex-end;
+}
+.colonneDroiteLesAnimaux{
+  max-width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  flex-flow: wrap;
+  max-width: 1000px;
+  margin-right: 10px;
+}
+
+.cardAnimalsLesAnimaux{
+  border: 2px white solid;
+  border-radius: 10px;
+  margin: 20px;
+  background-color:white;
+  position: relative;
+  height: 500px;
+  width: 280px;
+}
+.cardAnimalsLesAnimaux:hover{
+  margin:0.8rem;
+  box-shadow: grey 1px 1px 2;
+}
+.imageAnimalLesAnimaux{
+  width: 100%;
+  border-radius: 10px;
+  height: 200px;
+  object-fit: cover;
+}
+.divTitleLesAnimaux{
+  color: black;
+  padding: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.titleLesAnimaux{
+  color: black;
+}
+.logoGenderLesAnimaux{
+  color: black;
+  font-weight: bold;
+}
+.textLesAnimaux{
+  color: black;
+  padding: 10px;
+}
+.buttonficheLesAnimaux{
+  margin: 10px;
+  background-color: #87af8b;
+  border:1px solid #87af8b;
+  position: absolute;
+  bottom: 0;
+}
+.buttonficheLesAnimaux:hover{
+  background-color: chocolate;
+  border:1px solid chocolate;
+}
+
+/*-------------------TabletLandscape--and--BigTablet--------------------*/
+.titlePageTabletLand{
+
+}
+.colonneGaucheChatTabletLand{
+  margin-left: 30px;
+  position: fixed;
+}
+.colonneGaucheChatBigTabletLand{
+  margin-left: 30px;
+  position: fixed;
+}
+
+.imageDecoTabletLand{
+  position: absolute;
+  top:-100px;
+  z-index: +50;
+}
+
+.chatonTabletLand{
+  width: 200px;
+}
+.formFilterTabletLand{
+  border: 2px white solid;
+  padding:1rem;
+  border-radius: 5px;
+  position:relative;
+  margin-top: 70px;
+  width: 250px;
+}
+.formFilterTabletLand p{
+  margin-top: 20px;
+}
+.flexdroiteTabletLand{
+  display: flex;
+  justify-content: flex-end;
+}
+.colonneDroiteLesAnimauxBigTabletLand{
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+  max-width: 700px;
+  margin-right: 10px;
+}
+.colonneDroiteLesAnimauxTabletLand{
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+  max-width: 700px;
+  margin-right: 10px;
+}
+.cardAnimalsTabletLand{
+  border: 2px white solid;
+  border-radius: 10px;
+  margin: 20px;
+  background-color:white;
+  position: relative;
+  height: 500px;
+  width: 280px;
+}
+
+.imageAnimalTabletLand{
+  width: 100%;
+  border-radius: 10px;
+  height: 200px;
+  object-fit: cover;
+}
+.divTitleTabletLand{
+  color: black;
+  padding: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.titleTabletLand{
+  color: black;
+}
+.logoGenderTabletLand{
+  color: black;
+  font-weight: bold;
+}
+.textTabletLand{
+  color: black;
+  padding: 10px;
+}
+.buttonTabletLand{
+  margin: 10px;
+  background-color: #87af8b;
+  border:1px solid #87af8b;
+  position: absolute;
+  bottom: 0;
+}
+.buttonTabletLand:hover{
+  background-color: chocolate;
+  border:1px solid chocolate;
+}
+
+/*-------------------tablet portrait---------------*/
+.colonneGaucheChatTablet{
+  margin-top: 50px;
+  margin-left: 50px;
+  position: fixed;
+}
+.colonneDroiteLesAnimauxTablet{
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+  max-width: 500px;
+  margin-right: 10px;
+}
+
+/*--------------mobile landscape--------------------*/
+
+.colonneGaucheChatMobileLand{
+  margin-top: 20px;
+  margin: 20px;
+
+}
+.colonneDroiteLesAnimauxMobileLand{
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+  max-width: 100%;
+  margin-right: 10px;
+}
+
+
+.imageDecoMobileLand{
+  position: absolute;
+  top:325px;
+  z-index: +50;
+}
+
+.chatonMobileLand{
+  width: 200px;
+}
+.formFilterMobileLand{
+  border: 2px white solid;
+  padding:1rem;
+  border-radius: 5px;
+  position:relative;
+  margin-top: 30px;
+  width: 100%;
+}
+.formFilterMobileLand p{
+  margin-top: 20px;
+}
+.flexdroiteMobileLand{
+  display: flex;
+  justify-content: flex-end;
+}
+/*--------------mobile--------------------*/
+.colonneGaucheChatMobile{
+  margin-top: 40px;
+  margin: 20px;
+
+}
+.imageDecoMobile{
+  position: absolute;
+  top:265px;
+  z-index: +50;
+}
+
+.chatonMobile{
+  width: 150px;
+}
+.formFilterMobile{
+  border: 2px white solid;
+  padding:1rem;
+  border-radius: 5px;
+  position:relative;
+  margin-top: 20px;
+  width: 100%;
+}

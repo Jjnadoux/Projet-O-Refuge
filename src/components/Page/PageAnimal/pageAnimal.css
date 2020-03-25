@@ -1,0 +1,119 @@
+.container{
+    color:white;
+   margin: auto;
+}
+
+.contenu{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.description{
+    border:2px solid#74C47C;
+    border-radius: 10px;
+    padding:0.5rem;
+    margin-top: 55px;
+    max-width: 380px;
+}
+.colonneGauche1Annimal{
+  margin-left: 100px;
+}
+.colonneDroite{
+  margin: auto;
+  max-width: 500px;
+  margin-top: 55px;
+}
+.colonneDroite p,h2{
+    margin-top: 0.8rem;
+}
+.photoAnimal{
+    border-radius: 10px;
+    width:500px;
+    max-height: 400px; 
+    object-fit:cover;
+    margin:auto;
+}
+.logoGender{
+    color:white;
+    font-size:30px;
+}
+.contactRefuge{
+    margin-top:50px;
+}
+
+.blocPartage{
+    margin:auto;
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    font-size:30px;
+    
+}
+.logoReso{
+    display:flex;
+    justify-content: space-between;
+}
+ 
+.iconAnimal{
+  padding: 20px;
+  color: #74C47C;
+}
+
+.blocIconAnimal{
+  display: flex;
+  
+  font-size: 2rem;
+}
+.icon-item{
+  margin-left: 0.7rem;
+}
+.iconUrgent.icon-item{
+  color:red;
+}
+
+.buttonRefuge{
+  margin: 40px;
+  margin-left: -3px;
+}
+
+.infoCompl{
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.socialPageAnimal{
+    margin: 40px;
+    border:2px solid white;
+    padding:0.5rem;
+    margin-top: 55px;
+    
+}
+
+.partagerPageAnimal{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  color: #74c47c;
+}
+.titlePart{
+  margin-top:0.7rem;
+}
+
+.infoRefuge{
+  margin-top:1.5rem;
+}
+
+.accordeonCard{
+  background:none;
+  max-width: 380px;;
+}
+.accordeonCard.card-header{
+  border:2px solid #74c47c;
+  border-radius:15px;
+}
+.accordeonCard.card-body{
+  border:2px solid #74c47c;
+  border-radius:15px;
+}

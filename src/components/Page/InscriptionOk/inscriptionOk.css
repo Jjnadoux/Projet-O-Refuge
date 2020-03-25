@@ -1,0 +1,16 @@
+.inscriptionBlocOk{
+    text-align: center;
+    border:solid  1px white;
+      border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    margin:auto;
+    width: 800px;
+    padding:50px;
+    margin-bottom:60px;
+    background-image: url('../../../assets/images/sand-3141077_1280.jpg');
+    background-size: initial;
+    background-color: black;
+    text-shadow: white 0.1em 0.1em 0.2em;
+  }
+  

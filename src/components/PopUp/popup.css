@@ -1,0 +1,34 @@
+.titleHeader{
+  color:#74c47c;
+  margin: auto;
+  font-weight: bold; 
+  text-indent: 140px;
+}
+
+.blocForm{
+  margin: 15px;
+}
+
+.blocSpace{
+  margin: 15px;
+  color: #74c47c;
+  font-weight: bold;
+}
+
+.blocSpace1{
+  padding-top: 20px;
+  margin: 15px;
+  color: #74c47c;
+  font-weight: bold;
+  margin:auto;
+  display: flex;
+  justify-content: center;
+}
+
+.blocSpace2{
+  margin: 15px;
+  color: grey;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}

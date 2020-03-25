@@ -1,0 +1,246 @@
+.page{
+  max-width: 1250px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.blocRefuge{
+  border:solid  1px white;
+	border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin:auto;
+  padding: 50px;
+}
+.Refuge{
+  display: flex;
+  position: relative;
+}
+.pattelogo{
+  width: 6rem;
+  height: 6rem;
+  padding: 10px;
+}
+.titrelogo{
+  color:black;
+  font-size: 2rem;
+  text-align: center;
+  padding: 10px;
+}
+.logoRefuge{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  width: 250px;
+  height: 250px;
+}
+
+.imgLogo{
+	width: 100%;
+
+}
+.descriptionRefuge{
+  margin:30px;
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+}
+.descriptiontext{
+  color: white;
+  display: flex;
+}
+.titledescription{
+  font-size: 1.3rem;
+}
+.pen{
+  font-size: 1.5rem;
+  margin-top: auto;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+
+
+.titleRefuge{
+  font-size: 1.6rem;
+	margin-bottom:20px;
+  color: #74c47c;
+  text-align: center;
+}
+.rating {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-right:10px;
+
+}
+.rating a {
+	color: white;
+	text-decoration: none;
+	font-size: 2em;
+	transition: color .4s;
+}
+.rating a:hover,
+.rating a:focus {
+	color: #74c47c;
+	cursor: pointer;
+}
+
+.buttonBloc{
+  margin-top:40px;
+  display: flex;
+  justify-content: flex-end;
+}
+.button{
+  font-style: italic;
+	font-weight: bold;
+  font-size: 1.3em;
+}
+.blocCarousel{
+  margin-top:40px;
+
+}
+
+.carousel{
+	width: 700px;
+  margin: auto;
+  margin-top:40px;
+  margin-bottom: 40px;
+
+}
+.carou{
+  max-height: 400px;
+  border:solid  2px #74c47c;
+	border-radius: 5px;
+}
+
+.blocNosAnimaux{
+  margin-bottom: 40px;
+  display:flex;
+}
+
+.animauxDispo{
+  text-decoration: underline #74c47c;
+  font-weight: bold; 
+  font-size: 1.2rem;
+  padding-bottom: 10px; 
+}
+
+.listAnimaux{
+  text-indent: 50px;
+  font-size: 1.2rem;
+}
+
+.blocContact{
+  display:flex;
+  justify-content: space-around;
+}
+
+.blocCoord{
+  display: flex;
+  justify-content: space-around;
+}
+
+.blocAdress{
+  border: solid #74c47c 2px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  border-radius: 10px;
+  max-width: 300px;
+  font-size: 20px;
+  margin: auto;
+}
+
+.hours{
+  max-width: 300px;
+  border: solid #74c47c 2px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  border-radius: 10px;
+  font-size: 20px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.blocCoordonnees{
+  margin-bottom: 40px;
+  
+}
+
+
+.blocConditions{
+  margin-bottom:40px;
+  display: flex;
+}
+
+.socialDonation{
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.blocIconSocial{
+  display:flex;
+  justify-content: space-around;
+}
+
+.social{
+  border: solid white 2px;
+  border-radius: 5px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  padding:50px;
+  margin-bottom: 40px;
+}
+
+.icon1 {
+  color: white;
+	text-decoration: none;
+  transition: color .4s;
+  font-size: 40px;
+  margin: 20px;
+}
+.icon1 :hover,
+.icon1 :focus {
+	color: #74c47c;
+	cursor: pointer;
+}
+.icon{
+  font-size: 100px;
+  color: white;
+	text-decoration: none;
+  transition: color .4s;
+}
+
+.icon :hover,
+.icon :focus {
+	color: #74c47c;
+	cursor: pointer;
+}
+.partager{
+  font-size: 1.5rem;
+}
+
+.donation{
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding:50px;
+}
+
+.cardAnimals{
+  display:flex;
+  justify-content:center;
+
+}
+
+

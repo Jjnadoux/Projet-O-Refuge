@@ -1,0 +1,50 @@
+.blocAjoutAnimal{
+  border: solid white 2px;
+  padding: 80px;
+}
+
+.genre{
+  color:#74c47c;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.blocN2{
+  margin-bottom: 40px;
+}
+
+.bloc10{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+.textConseil{
+  padding: 20px;
+}
+
+.buttonMedia{
+  border: solid white 2px;
+  color: white;
+  font-weight: bold;
+}
+
+.colonneGau{
+  border: solid white 2px;
+  padding: 20px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.colonneDroi{
+  margin: auto;
+  
+}
+
+.iconImg{
+  font-size: 100px;
+  margin: auto;
+}
