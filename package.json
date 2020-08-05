@@ -60,7 +60,7 @@
     "bootstrap": "^4.4.1",
     "bundle-stats": "1.15.8",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.0",
